@@ -86,10 +86,10 @@ li.cta:hover {
 }
 
 .wrapper .left__wrapper {
-  width: 1500px;
+  width: 2000px;
   height: 100%;
   padding-left: 50px;
-  padding-top: 1rem;
+  padding-top: 0.01px;
 }
 
 .left__wrapper .heading h1 {
