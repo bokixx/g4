@@ -18,6 +18,7 @@ body {
   min-height: 100vh;
 }
 
+
 .container {
   display: flex;
   align-content: center;
@@ -85,10 +86,10 @@ li.cta:hover {
 }
 
 .wrapper .left__wrapper {
-  width: 50%;
+  width: 1500px;
   height: 100%;
-  padding-left: 10%;
-  padding-top: 4rem;
+  padding-left: 50px;
+  padding-top: 1rem;
 }
 
 .left__wrapper .heading h1 {
@@ -170,5 +171,7 @@ li.cta:hover {
 
 .wrapper .right__wrapper img {
   width: 250px;
-  padding-top: 9rem;
+  padding-top: 15rem;
+  padding-right: 35rem;
 }
+
